@@ -1,0 +1,25 @@
+<h2>My Favorite Colors</h2>
+<ol>
+<li>Blue</li>
+<li>Cyan</li>
+<li>Teal</li>  
+</ol>
+<h2>My Favorite Colors</h2>
+<ol type="A">
+<li>Blue</li>
+<li>Cyan</li>
+<li>Teal</li>  
+</ol>
+<h2>Grocery List</h2>
+<ul>
+<li>Water</li> 
+<li>Pasta</li>  
+<li>Taco Shells</li>
+</ul>
+<dl>
+<dt>Breakfast</dt>
+<dd>I would like to have some toast and bacon.</dd>
+<dt>Lunch</dt>
+<dd>Lunch would just be some tacos or something</dd>
+<dt>Dinner</dt>
+<dd>Pizza or Steak</dd>
